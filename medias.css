@@ -1,0 +1,28 @@
+/* Media queries */
+@media screen and (max-width:812px) {
+    
+    #right
+    {
+    align-self: center;
+    }
+    
+    #principale
+    {
+        width:100%;
+        display:inline-block;
+    }
+    #perso
+    {
+        display:inline-block; 
+    }
+    #entete
+    {
+     display:inline-block; 
+    }
+
+    #fin
+    {
+        height:auto;
+        text-align: center;
+    }
+    }
